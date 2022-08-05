@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Viridiana",
+      "empresa": "AV Solution",
+      "email": "correo@correo.com",
+      "telefono": "99165465",
+      "notas": "pruebas",
+      "id": 1
+    },
+    {
+      "nombre": "Enrique Romo",
+      "empresa": "Romo's Solution",
+      "email": "enrique.romo@email.com",
+      "telefono": "94642351",
+      "notas": "Solicitud para estar de alta en el sass",
+      "id": 2
+    }
+  ]
+}
